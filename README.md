@@ -7,7 +7,7 @@ A demonstration program showing how to use zopfli compression library (https://c
 
 ## Prerequisites ##
 
-Test on Mac OS X 10.7.5.
+Tested on Mac OS X 10.7.5.
 
     $ clang++ --version
     Apple clang version 3.1 (tags/Apple/clang-318.0.54) (based on LLVM 3.1svn)
